@@ -1,4 +1,4 @@
-import React, { useState, useContext, userRef, useRef } from 'react';
+import React, { useState, useContext, useRef } from 'react';
 import { useQuery, useMutation } from '@apollo/react-hooks';
 import gql from 'graphql-tag';
 import { Button, Image, Card, Grid, Icon, Label, Form } from 'semantic-ui-react';
